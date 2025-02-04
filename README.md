@@ -1,3 +1,3 @@
-Shehbaz Malik
+Name: Shehbaz Malik
 roll no. 264
-Minhaj University Lahore
+Institute: Minhaj University Lahore
